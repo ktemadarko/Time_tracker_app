@@ -2,9 +2,12 @@
 Time Tracker App built with Python
 
 Azubi Africa Data Science trainees
-Group Members:  -Ama Owusu-Darko 
-                -Anita Tay 
-                -Augustine Boateng Baah
+Group Members:  
+Ama Owusu-Darko 
+ 
+Anita Tay 
+
+Augustine Boateng Baah
                 
 ### Introduction
 The program makes use of a timer to record the duration of a particular task. The user begins the task by typing in the task name and ends the task by typing 'Stop'. The system's date automatically records the start and stop times of the task. The amount of time spent on the task is calculated and the user is asked to input the hourly rate for payment.
