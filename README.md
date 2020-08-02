@@ -15,7 +15,8 @@ The datetime and time modules were used to manipulate dates and time inputs as w
 Inputs and respective results are stored in an excel file to allow for future referencing. 
 
 ### Next Steps
-Creating a graphical user interface or an API for the app.
+I am working on how to output the total money earned after all the individual tasks have been completed.
+I would like to create a graphical user interface and/or an API for the app.
 
 ### Collaboration Welcome
 Try it out and tell us your experience using it.
