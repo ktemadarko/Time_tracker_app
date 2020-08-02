@@ -1,5 +1,5 @@
-# Time_tracker_app
-Time Tracker App built with Python
+# Time_tracker_Python_app
+Code is in the file Time_and_Pay_App.py
 
 Azubi Africa Data Science trainees
 Group Members:  
